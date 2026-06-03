@@ -40,13 +40,13 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 # ── Git / updates ──────────────────────────────────────────────────────────
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/ItsMeVishal0/VishalMusic.git")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/krishbairagi/KRISH-X-STAR-WA-BOT")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN")  # needed if repo is private
 
 # ── Support links ──────────────────────────────────────────────────────────
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ItsMeVishalBots")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ItsMeVishalSupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/KRISH_HACKER_OP")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/KRISH_HACKER_OP")
 
 # ── Assistant auto-leave ───────────────────────────────────────────────────────
 AUTO_LEAVING_ASSISTANT = False
